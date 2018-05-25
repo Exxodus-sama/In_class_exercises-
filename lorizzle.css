@@ -6,3 +6,19 @@
     line-height: 20px;
     letter-spacing: 10px;
 }
+
+a {
+    font-size: 20px;
+}
+
+a:hover {
+    background-color: aquamarine
+}
+
+a:active {
+    background-color: blueviolet
+}
+
+a:visited {
+    background-color: crimson
+}
